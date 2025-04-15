@@ -32,7 +32,6 @@ Above all, I’m **obsessed with learning and improving**—always iterating, al
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor_IDE-000000?style=flat&logo=code&logoColor=white) <!-- Replace with actual logo if available -->
 ![Copilot](https://img.shields.io/badge/-GitHub%20Copilot-5C6BC0?style=flat&logo=github&logoColor=white)
-![CodeWhisperer](https://img.shields.io/badge/-CodeWhisperer-232F3E?style=flat&logo=amazonaws&logoColor=white) <!-- Placeholder, AWS brand -->
 
 📸 **[Insert GIF/Image here showing your dev setup or Cursor in action]**
 
